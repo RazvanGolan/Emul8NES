@@ -1,0 +1,61 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# PyCharm specific
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test coverage reports
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+*.save
+
+# Other
+*.pid
+*.seed
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
+
+# IDE/editor specific
+.vscode/
